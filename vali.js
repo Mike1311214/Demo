@@ -1,3 +1,4 @@
+// comment added
 function validate(){
 	
 if(document.StudentRegistration.Full_Name.value=="")
